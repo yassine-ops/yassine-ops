@@ -1,32 +1,23 @@
-# Hi there! 👋
+#
 
-I'm a DevOps and automation tool maker.
+## Hi there! 👋
 
-- 🔋 I’m currently working on saving the planet.
-- 🤓 I’m currently learning Golang.
-- 📫 How to reach me: [Linkedin](https://se.linkedin.com/in/yassine-imlil-7b2a631a7)
+I'm a **Platform Engineer** and **automation tool maker** with a passion for building scalable platforms and optimizing CI/CD pipelines.
 
+### 🌱 **What I'm Working On**
 
-## Tech Stack
+- 📚 Continuously improving my skills in **Golang** and **Kubernetes**.
 
-- ✍️ Python, NodeJS, GO, Bash
-- ☁️ AWS, Azure
-- 📦 GitHub Actions, CircleCI, Jenkins, Drone
-- ⚓ K8s, K3s, ArgoCD
-- 💻 Terraform, Ansible, CDK
-- 👮 Conftest
+### 🛠️ **Tech Stack**
 
-<!--
-**Captain-ops/captain-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📝 Languages: Python, Go, NodeJS, Bash
+- ☁️ Cloud Providers: AWS, Azure
+- 📦 CI/CD: GitHub Actions, CircleCI, Jenkins, Drone, ArgoCD
+- 🚢 Containers & Orchestration: K8s, K3s, Nomad
+- 🧩 IaC & Automation: Terraform/Terragrunt, Atlantis, Ansible, CDK
+- 👮 Policy & Security: Conftest, OPA
 
-Here are some ideas to get you started:
+### 📊 **GitHub Stats**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassine-ops&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ops&layout=compact&theme=dark)
