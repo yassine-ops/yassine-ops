@@ -6,7 +6,7 @@ I'm a **Platform Engineer** and **automation tool maker** with a passion for bui
 
 ### 🌱 **What I'm Working On**
 
-- 📚 Continuously improving my skills in **Golang** and **Kubernetes**.
+- 📚 Continuously improving my skills in designing applications.
 
 ### 🛠️ **Tech Stack**
 
@@ -16,8 +16,3 @@ I'm a **Platform Engineer** and **automation tool maker** with a passion for bui
 - 🚢 Containers & Orchestration: K8s, K3s, Nomad
 - 🧩 IaC & Automation: Terraform/Terragrunt, Atlantis, Ansible, CDK
 - 👮 Policy & Security: Conftest, OPA
-
-### 📊 **GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yassine-ops&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yassine-ops&layout=compact&theme=dark)
